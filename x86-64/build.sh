@@ -50,9 +50,8 @@ PACKAGES="$PACKAGES luci-app-autoreboot"
 PACKAGES="$PACKAGES luci-app-airplay2"
 PACKAGES="$PACKAGES luci-app-advanced-reboot" 
 PACKAGES="$PACKAGES luci-app-arpbind"
-PACKAGES="$PACKAGES luci-app-wireguard"
 PACKAGES="$PACKAGES luci-proto-wireguard" 
-PACKAGES="$PACKAGES luci-app-accesscontrol"
+
 # 增加几个必备组件 方便用户安装iStore
 PACKAGES="$PACKAGES fdisk"
 PACKAGES="$PACKAGES script-utils"
