@@ -67,7 +67,7 @@ PACKAGES="$PACKAGES luci-i18n-dufs-zh-cn"
 PACKAGES="$PACKAGES $CUSTOM_PACKAGES"
 #add by heigao
 PACKAGES="$PACKAGES luci-app-upnp"
-PACKAGES="$PACKAGES luci-app-ddns" 
+PACKAGES="$PACKAGES luci-app-ddns-go" 
 PACKAGES="$PACKAGES luci-app-autoreboot"
 PACKAGES="$PACKAGES luci-app-airplay2"
 PACKAGES="$PACKAGES luci-app-advanced-reboot" 
